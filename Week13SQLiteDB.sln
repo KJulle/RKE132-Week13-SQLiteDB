@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week13SQLiteDB", "Week13SQLiteDB\Week13SQLiteDB.csproj", "{592069D2-23EC-4812-B1C8-F5D003D6C3AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperheroCafe", "SuperheroCafe\SuperheroCafe.csproj", "{CAB8C607-EE26-4C3D-A567-2CC51A507710}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{592069D2-23EC-4812-B1C8-F5D003D6C3AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{592069D2-23EC-4812-B1C8-F5D003D6C3AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{592069D2-23EC-4812-B1C8-F5D003D6C3AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{592069D2-23EC-4812-B1C8-F5D003D6C3AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAB8C607-EE26-4C3D-A567-2CC51A507710}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAB8C607-EE26-4C3D-A567-2CC51A507710}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAB8C607-EE26-4C3D-A567-2CC51A507710}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAB8C607-EE26-4C3D-A567-2CC51A507710}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F9F5490-B996-4FD2-B040-FA27E747BCCD}
+	EndGlobalSection
+EndGlobal
